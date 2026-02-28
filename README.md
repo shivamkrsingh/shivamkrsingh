@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shivamkrsingh
+- 👋 Hi, I’m @shivam singh
 - 👀 I’m interested in ERP tools like Plateform SAP and Salesforce , and cloud app modeling 
 - 🌱 I’m currently learning React and Vue.js and RAP with ABAP Cloud
 - 💞️ I’m looking to collaborate on New challanges on UX ,app and data modeling

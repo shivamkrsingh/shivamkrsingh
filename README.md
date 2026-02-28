@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @shivamkrsingh
-- 👀 I’m interested in UX technology across Plateform like SAP and Salesforce
-- 🌱 I’m currently learning React and Vue.js
+- 👀 I’m interested in UX technology across Plateform like SAP and Salesforce ,cloud services 
+- 🌱 I’m currently learning React and Vue.js and RAP with ABAP Cloud
 - 💞️ I’m looking to collaborate on New challanges on UX 
-- 📫 reach me on shivam.cue@gmail.com
+- 📫 reach me on shivam.cue@gmail.com  
 
 <!---
 shivamkrsingh/shivamkrsingh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
